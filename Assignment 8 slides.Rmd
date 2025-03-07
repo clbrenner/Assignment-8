@@ -1,0 +1,40 @@
+---
+Title: "Some things I learned this quarter"
+Subtitle: "FISH 549"
+author: "Catherine Brenner clb12@uw.edu"
+date: "`r Sys.Date()`"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+## About Me | Personal
+
+- I was born in Virginia, USA  
+- My favorite food is a persimmon.
+- My favorite animal is a caddisfly.
+
+## About Me | Academic
+
+- Undergraduate institution: Duke Kunshan University/Duke University
+- Undergraduate major: Environmental Science/Biology
+
+# Data Science
+
+## Course topics | 3 things I enjoyed learning about
+
+    1) Github work flow
+    2) File management techiques
+    3) Using Github for collaborations
+
+## Course topics | 3 things I’d like to learn more about
+
+    1) Shiny apps
+    2) Leaflet
+    3) Practice using Github for a collaborative project
+    
+## {data-background=img/photo.jpg data-background-size=cover}
