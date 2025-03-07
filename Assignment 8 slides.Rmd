@@ -1,6 +1,6 @@
 ---
-Title: "Some things I learned this quarter"
-Subtitle: "FISH 549"
+title: "Some things I learned this quarter"
+subtitle: "FISH 549"
 author: "Catherine Brenner clb12@uw.edu"
 date: "`r Sys.Date()`"
 output: ioslides_presentation
